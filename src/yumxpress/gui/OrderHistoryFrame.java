@@ -367,7 +367,7 @@ public class OrderHistoryFrame extends javax.swing.JFrame {
     
      try{
         
-        orderList=OrderDAO.getOrderHistoryByCustomer("CUS-101");
+        orderList=OrderDAO.getOrderHistoryByCustomer(UserProfile.getUserId());
              
         
         if(orderList.size()==0){

@@ -1,1 +1,1 @@
-<h1>YumXpress food Desktop applaction</h1>
+<h1 style="text-align='center'">YumXpress food Desktop applaction</h1>
